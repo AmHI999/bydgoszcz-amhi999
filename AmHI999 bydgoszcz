@@ -1,0 +1,485 @@
+Linia   22523: 783606,749112065,Dominik,Kolendo,39959,Poland,Podlasie,Białystok,Pod Krzywą 36,15-258,505216024
+	Linia   23415: 1000048,748372439,Jakub,Markuszewski,39959,Poland,Podlasie,Białystok,street Swobodna 34 apartament 120,15-756,794134460
+	Linia   24061: 1503112,953683122,mateusz,rzemek,39959,Poland,Podlasie,Białystok,Generała Józefa Bema 93/M16,15-370,781787920
+	Linia   30604: 1808021,484549106,Piotr,Niepłocha,39959,Poland,Podlasie,Białystok,Dolna 20,15-697,503545482
+	Linia   40195: 1414360,672183703,patryk,bus,39959,Poland,Podlasie,białystok,Pietkiewicza 4e/18,15-689,533200286
+	Linia   41999: 2307654,211601123,Konrad ,Maciejewski,39959,Poland,Podlasie,Białystok,Słonimska 28/16 Białystok ,15-028,882707250
+	Linia   46616: 2199431,690674421,Mateusz,Madejczyk,39959,Poland,Podlasie,Białystok ,Żeromskiego 5 lokal 2, pracownia projektową JKG
+	Linia   47028: 2129762,661436136,Klaudia,Haraburda,39959,Poland,Podlasie,Białystok,Białystok towarowa 22 mieszkanie 54,15-077,576377059
+	Linia   47057: 2361053,262485627,Stanisław,Łupiński,39959,Poland,Podlasie,Białystok,Legionowa 9 mieszkanie 4,15-281,881447654
+	Linia   54751: 1537718,618942758,Katarzyna,Grecka,39959,Poland,Podlasie,Białystok,Bitwy Białostockiej 27/17,15-102,723207583
+	Linia   60239: 2334707,833966122,Mateusz,wajha,39959,Poland,Podlasie,Białystok,10,11,888636001
+	Linia   61859: 2109836,341376761,Oliwier,Sieradzki,39959,Poland,Podlasie,Białystok,końcowa 20d/1,15-806,791942801
+	Linia   72249: 865967,665691012,Szymon,Kardasz,39959,Poland,Podlasie,Białystok,Jana Heweliusza 6,15-682,728062243
+	Linia   77181: 1436937,855194505,Marcin,Bromboszcz,39959,Poland,Podlasie,Białystok,Jałowcowa 13,15-810,+48694204182
+	Linia   77524: 2190365,994842554,Tomasz,Tur,39959,Poland,Podlasie,Białystok,gmina dobrzyniewo duże, Bohdan 24H,16-002,882555106
+	Linia   85363: 2340406,956392781,Maciek ,Przezdembski,39959,Poland,Podlasie,Białystok,Batalionów Chłopskich 16/16
+	Linia   86377: 1475567,206211006,Kuba,Garbowski,39959,Poland,Podlasie,Białystok,Transportowa 2B mieszkania 7,15-399,79778329
+	Linia   89337: 1738168,866756176,Lukasz,Wiszowaty,39959,Poland,Podlasie,Białystok,Stanisławowo 4,15-604,511669909
+	Linia   92869: 368354,888140834,Dawid,Klebus,39959,Poland,Podlasie,Białystok,ul.Próżna 3/17,15-019,537105767
+	Linia   93606: 320437,892583748,Bartłomiej,Warchoł,39959,Poland,Podlasie,Białystok,Scaleniowa 17/31,15-780,728866771
+	Linia   94932: 762354,102926849,Edward,Wasilewski,39959,Poland,Podlasie,Białystok,ul. Brzoskwiniowa 24,15-584,+48 602708789
+	Linia   97785: 1688115,270799922,Andrzej,Kondraciuk,39959,Poland,Podlasie,Białystok,Sybiraków 15/26,15-204,797112696
+	Linia   97956: 381673,500740168,Jakub,Smarkusz,39959,Poland,Podlasie,Białystok,Ryska 3a/51,15-008,510530305
+	Linia   99652: 586732,255220931,Rafał,Rozek,39959,Poland,Podlasie,Białystok,Pułaskiego 39,15337,519712320
+	Linia  100260: 1617656,371416686,Kamil,Iżbicki,39959,Poland,Podlasie,Białystok,Wiosłowa 8,15-565,533566555
+	Linia  108435: 1395785,668151169,Tomasz,Cilulko,39959,Poland,Podlasie,Białystok,Szpitalna 39/12,15-295,880020787
+	Linia  109708: 2093401,249722672,Alex,borowksibeszta,39959,Poland,Podlasie,Białystok,Wł. Raginisa 91,15-161,780009972
+	Linia  116811: 1365868,991800508,Kordian,Kacperski,39959,Poland,Podlasie,Białystok,przygodna 14/5,15-032,506 136 977
+	Linia  123469: 1735041,716971952,Aleksander,Andrzejewski,39959,Poland,Podlasie,Białystok,borsucza 6/13,15569,575268277
+	Linia  151177: 563387,305816350,Kamil,Rząca,39959,Poland,Podlasie,Białystok,Gajowa 83
+	Linia  164139: 2081034,993292786,Kornel,Ozimko,39959,Poland,Podlasie,Białystok,Klepacka 4/34,15-634,577751051
+	Linia  169560: 471759,680920122,Kacper,Gawryluk,39959,Poland,Podlasie,Białystok,Nowodworce ul.zaciszna 26.,16-010,507561448
+	Linia  171274: 753111,728057812,Filip,Woszczyna,39959,Poland,Podlasie,Białystok,św. Andrzeja Boboli 92/17,15-649,737861175
+	Linia  177333: 1518946,630513584,Kamil,Muzyczko,39959,Poland,Podlasie,Białystok,ul. 42 Pułku Piechoty 70D m.18,15-181,48696600695
+	Linia  178526: 554670,581398367,Michał,Kuźmiuk,39959,Poland,Podlasie,Białystok,Antoniukowska 56 apt no 150 2nd lvl,15-845,789484305
+	Linia  182752: 1939533,654181229,Jan,Frańczak,39959,Poland,Podlasie,Białystok,Księdza Stanisława Suchowolca 26,15-565,600336983
+	Linia  185231: 899417,706150565,Kacper,trochimczyk,39959,Poland,Podlasie,Białystok,11 listopada 6a/1,15-320,517 461 539
+	Linia  187197: 1730026,309511451,Filip,Bossowski,39959,Poland,Podlasie,Białystok,Sympatyczna 5,15-695,664271316
+	Linia  189536: 6566,19362953,Michał,Tyniewicki,39959,Poland,Podlasie,Białystok,Piastowska 13a, 52,15-207,+48 600716996
+	Linia  191727: 1397043,426739614,Piotr,Dziekoński,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 4b/17,15-689,884643488
+	Linia  195122: 475048,753137609,Filip,Filip,39959,Poland,Podlasie,Białystok,Cytrusowa
+	Linia  198956: 1834693,874170753,szymon,kowalski,39959,Poland,Podlasie,Białystok,42 pułku piechoty 6,15-181,577815947
+	Linia  214799: 557372,828856397,blaze,pucilo,39959,Poland,Podlasie,Białystok,Bohaterów monte cassino 23/23,15-873,535793469
+	Linia  215028: 690663,563161851,Sebastian,Prus,39959,Poland,Podlasie,Białystok,Towarowa 12 mieszkanie 106,15-007,+48504929509
+	Linia  225055: 2014595,451154531,Kuba,Falkowski,39959,Poland,Podlasie,Białystok,Pogodna 4C Mieszkanie 61,15-354,737378609
+	Linia  227152: 256485,408460288,Kamil,Dryj,39959,Poland,Podlasie,Białystok,Wiklinowa 2,15-157,696888472
+	Linia  231359: 1181169,876630119,Wojciech,Karcz,39959,Poland,Podlasie,Białystok,Al. 1000-lecia P.P. 75/2/1,15-111,+48507941387
+	Linia  232320: 1619937,157356483,Iryna,Vankhalska,39959,Poland,Podlasie,Białystok,ul.Swobodna 43/47,15-756,+48573209481
+	Linia  235855: 2240908,751227061,Rafał,Popiołek,39959,Poland,Podlasie,Białystok,Armii Krajowej 2A/2,15-661,792575868
+	Linia  236600: 2191640,826329387,Gabriel,Jedynak,39959,Poland,Podlasie,Białystok,Pieczurki 6,15-198,666 615 519
+	Linia  242264: 1017627,335292830,Mateusz,Stankiewicz,39959,Poland,Podlasie,Białystok,Piotra Skargi 9,15-198,791458129
+	Linia  242871: 2236410,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia  245198: 1441120,926111339,Kacper,kucharczyk,39959,Poland,Podlasie,Białystok,Józef Ignacego Kraszewskiego 6/21,15-025,574255847
+	Linia  245959: 736641,940576927,Antoni,Kuklik,39959,Poland,Podlasie,Białystok,Zagumienna 13/1,15866,452424988
+	Linia  249207: 1283323,621512704,Szymon,Koc,39959,Poland,Podlasie,Białystok,Antoniukowska 46/21,15-845,576290328
+	Linia  253034: 884767,134488502,Piotr,Gryc,39959,Poland,Podlasie,Białystok,42 Pułk Piechoty 72e/29,15-181,+48 692 018 108
+	Linia  259796: 1998914,161835947,Renata,Małyszko,39959,Poland,Podlasie,Białystok,Hallera 40 15-814 Białystok,15-814,500654202
+	Linia  263211: 2221526,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,Sybiraków 17/68
+	Linia  263212: Białystok,15-635,+48691693429
+	Linia  270277: 460863,173402729,Zuzanna,Ostapczuk,39959,Poland,Podlasie,Białystok,św. Andrzeja Boboli 94/18,15-649,698493778
+	Linia  271724: 263422,810713020,Szymon,Kardasz,39959,Poland,Podlasie,Białystok,Jana Heweliusza 6,15-682,728062243
+	Linia  273407: 1803680,403866541,Mateusz,Sawicki,39959,Poland,Podlasie,Białystok,Waszyngtona 14B/121,15-274,+48795746749
+	Linia  295148: 2129959,341376761,Igor,Gabryszewski,39959,Poland,Podlasie,Białystok,Księżyno kolonia 36j,16-001,534581760
+	Linia  300883: 1514595,894453262,Kacper,Reducha,39959,Poland,Podlasie,Białystok,kaczorowskiego 14/18,15-367,+48600056822
+	Linia  308175: 1663510,794974557,Jakub,Trzeciak,39959,Poland,Podlasie,Białystok,Zielonogorska 7/37,15-674,537889827
+	Linia  311798: 467166,381974201,kacper,krasnicki,39959,Poland,Podlasie,Białystok,Botaniczna 9A,15-874,733037759
+	Linia  318357: 381069,523765043,jakub,lewicki,39959,Poland,Podlasie,Białystok,Akacjowa 7,15-801,48+ (535222058)
+	Linia  320953: 2236405,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia  325599: 482286,593140693,Jakub,Głowicki,39959,Poland,Podlasie,Białystok,Komisji edukacji narodowej 56/60,15-687,537553225
+	Linia  328627: 2232934,575909426,Karol,Kozłowski,39959,Poland,Podlasie,Białystok,Jodłowa 3A nr. 91,16-001,724759994
+	Linia  329572: 888326,147407578,Nikola,Szulborska,39959,Poland,Podlasie,Białystok,Kołłątaja 7/10,15-774,669315430
+	Linia  331587: 1021667,810594604,Dominik,Łupiński,39959,Poland,Podlasie,Białystok,Blokowa 30,15-788,530805937
+	Linia  345447: 2210837,556958759,Maks,Bachórzewski,39959,Poland,Podlasie,Białystok,Skłodowskiej 3 Lokal 01 (piwnica),15-094,666870015
+	Linia  347079: 1165384,762031688,Natalia,Paszko,39959,Poland,Podlasie,Białystok,ul. Antoniuk fabryczny 55/24,15-762,535983130
+	Linia  374703: 854584,734727928,Bartosz,Dabek,39959,Poland,Podlasie,Białystok,Wiejska 72/5,15-352,733668704
+	Linia  376478: 2273928,122811547,Maks,Ignatiuk ,39959,Poland,Podlasie,Białystok ,Łucji Prus 16,15-197,604433866
+	Linia  392941: 1939519,654181229,Jan,Frańczak,39959,Poland,Podlasie,Białystok,Księdza Stanisława Suchowolca 26,15-565,600336983
+	Linia  395635: 1429160,825213954,Maciek,Przezdembski,39959,Poland,Podlasie,Białystok,Batalionow Chłopskich 16/16,15-661,791027995
+	Linia  405180: 539453,291705419,Adam,Wojtuk,39959,Poland,Podlasie,Białystok,Kazimierza Pułaskiego 11,15-338,+48 505 118 182
+	Linia  405380: 2186814,441499445,Tomasz,Dziekoński,39959,Poland,Podlasie,Białystok,Narewska 2A, Mieszkania 36,15-840,516636533
+	Linia  408501: 134968,987360320,Kacper,Łupiński,39959,Poland,Podlasie,Białystok,Knyszyńska 8A, Białystok,15-702,505205165
+	Linia  410122: 1549958,229267080,Łukasz,Gawenda,39959,Poland,Podlasie,Białystok,Cedrowa 16J,15-798,530300574
+	Linia  416598: 1822956,259719757,Magdalena,Hyży-Rydzewska,39959,Poland,Podlasie,Białystok,Łosia 11,15-534,+48505999462
+	Linia  420883: 1439886,672183703,Patryk,Busłowski,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 4e/18,15-689,533200286
+	Linia  423345: 1117933,438765502,Hubert,Krystosiak,39959,Poland,Podlasie,Białystok,Bitwy białostockiej 32D/27,15-103,693338907
+	Linia  436538: 1337486,515982501,Małgorzata,Gidaszewska,39959,Poland,Podlasie,Białystok,Lawendowa 77A,15-642,536761946
+	Linia  436910: 1109896,565070201,mateusz,sztulc,39959,Poland,Podlasie,Białystok,Zagórna 17/42,15-820,503983435
+	Linia  451944: 1802898,952874763,Jakub,Grabowiecki,39959,Poland,Podlasie,Białystok,Rumiankowa 5. m.12,15-665,515041012
+	Linia  453481: 1922210,627821655,patryk,Popławski,39959,Poland,Podlasie,białystok,karakule sosnowa 42,16-030,+48600175721
+	Linia  458857: 879474,726266699,Mikołaj,Mikołaj,39959,Poland,Podlasie,Białystok,Zwierki 44e,16060,511854734
+	Linia  467117: 1478837,538618779,Jan,Półkośnik,39959,Poland,Podlasie,Białystok,Przyrodnicza 5/36,15-673,506773245
+	Linia  484858: 439116,724634131,Zambek,ustarkhanov,39959,Poland,Podlasie,Białystok,kardynała Stefana Wyszyńskiego 4b 83,15-888,739694991
+	Linia  486125: 1586040,888953457,Ludwik,Jankowski,39959,Poland,Podlasie,Białystok,Legionowa 15/130,15-281,668451417
+	Linia  489554: 664289,654641314,Michał,Kazimieruk,39959,Poland,Podlasie,Białystok,Skrybicze 41, białystok, gmina zabłudów,15-606,515423853
+	Linia  489847: 333457,701407915,Iwo,Fiedorczuk,39959,Poland,Podlasie,Białystok,Icchoka Malmeda 10/3,15-440,501782366
+	Linia  493661: 437355,172860884,Filip,Kamiński,39959,Poland,Podlasie,Białystok,Produkcyjna 63,15-680,502755662
+	Linia  508181: 1045316,266897318,Jakub,Radziszewski,39959,Poland,Podlasie,Białystok,Legionowa 9 m.100,15-281,573466667
+	Linia  508229: 2158869,417508207,Dawid,Sarnacki,39959,Poland,Podlasie,Białystok,Transportowa 2B/179,15-399,519720391
+	Linia  514973: 678039,185013075,Julia,Litwinczuk,39959,Poland,Podlasie,Białystok,Sobieskiego 5 m. 3,15-013,786902621
+	Linia  522568: 1934565,196408075,Maksymilian,Rosiewicz,39959,Poland,Podlasie,Białystok,Granitowa 12, Henrykowo,15-511,509863805
+	Linia  523444: 1368748,462701722,Marceli,Andysewicz,39959,Poland,Podlasie,Białystok,Melchiora Wankowicza 14,15-166,+48 572 534 181
+	Linia  524529: 276966,480291206,Adam,Kaczanowski,39959,Poland,Podlasie,Białystok,Słonecznikowa 25/32,15-660,518578870
+	Linia  525168: 669305,941752818,Jakub,Roszkowski,39959,Poland,Podlasie,Białystok,Pierwiastkowa 8,15-587,730334335
+	Linia  530612: 1640625,489476039,Jakub,Gniedziejko,39959,Poland,Podlasie,Białystok,Nowogródzka 6/90,15-490,730009776
+	Linia  533150: 1868151,739060456,Michał,Kossakowski,39959,Poland,Podlasie,Białystok,Piotra Łodzińskiego 16B,15-345,570867614
+	Linia  535991: 843022,856552161,natan,Gogga,39959,Poland,Podlasie,Białystok,świetego rocha 7 m2,15-879,725559195
+	Linia  546128: 2229966,958203511,Jakub,Michniewicz,39959,Poland,Podlasie,Białystok,Antoniuk Fabryczny 55/4,15-762,+48532997879
+	Linia  550089: 1862836,392411483,Konrad,Gil,39959,Poland,Podlasie,Białystok,Przemysłowa 30e,15-234,691815551
+	Linia  562690: 498306,240629606,Radek,Raczkowski,39959,Poland,Podlasie,Białystok,Grunwaldzka 419/46,15-896,516696000
+	Linia  566557: 1113509,678303785,Jakub,Kruk,39959,Poland,Podlasie,Białystok,Komisji Edukacji Narodowej 52/36,15687,518097920
+	Linia  567696: 290817,259410376,Mikołaj,Lew,39959,Poland,Podlasie,Białystok,Zachodnia 18B,15-399,+48 783 629 121
+	Linia  568293: 1080452,637045533,Mateusz,Busłowski,39959,Poland,Podlasie,Białystok,Waszyngtona 22//74,15-274,500692064
+	Linia  572049: 115039,322748463,Dominik,Kulesza,39959,Poland,Podlasie,Białystok,Mongolska 22,15-625,507734828
+	Linia  583086: 587801,506223227,kornel,grzegorzewski,39959,Poland,Podlasie,Białystok,Trawiasta 12 m. 70,15-161,577989179
+	Linia  584140: 10879,74467717,Jan ,Kurylonek,39959,Poland,Podlasie,Białystok,Bolesława Chrobrego 5E/15,15-057,+48724930303
+	Linia  596186: 2085844,401377256,wojtek,ogórek,39959,Poland,Podlasie,białystok,street:Warszawska 76/55,15-001,697313719
+	Linia  601219: 1423264,107365188,Szymon,Kardasz,39959,Poland,Podlasie,Białystok,Jana Heweliusza 6,15-682,534617344
+	Linia  615152: 1976750,237845159,Flavio,Popławski,39959,Poland,Podlasie,Białystok,Waszyngtona, 34/6
+	Linia  618033: 1402435,729086511,Dawid,Tarasiuk,39959,Poland,Podlasie,Białystok,Zagumienna 10, 37,15-866,881202266
+	Linia  622927: 1521423,206265911,Izabela,Niewińska,39959,Poland,Podlasie,Białystok,Szczęśliwa 1,15-157,795605796
+	Linia  623650: 222817,978338974,Michał,Sienkiewicz,39959,Poland,Podlasie,Białystok,Scaleniowa
+	Linia  646091: 1988389,435581145,Hanna,Szmelcer,39959,Poland,Podlasie,Białystok,Dojlidy Górne 155,15-581,579996120
+	Linia  658208: 863322,445387254,Alan,Grochowski,39959,Poland,Podlasie,Białystok,Równa 13,15-335,570306006
+	Linia  661089: 2097277,425627871,Sebastian,Saliński,39959,Poland,Podlasie,Białystok,Leszczynowa 56/40,15-811,+48539339448
+	Linia  661413: 1715984,197116642,Kacper,Borsukiewicz,39959,Poland,Podlasie,Białystok,Ukośna 9/52,15-836,797579757
+	Linia  668634: 2359807,909429433,Andrzej,Chudzinski,39959,Poland,Podlasie,Białystok,Lodowa 56a,15-698,48505118615
+	Linia  669933: 89424,784107660,Alan,Bartnicki,39959,Poland,Podlasie,Białystok,Rycerska 85B ,15-157,+48 532 318 691
+	Linia  671180: 2271867,174365406,Jakub,Woiński,39959,Poland,Podlasie,Białystok,Waszyngtona 14/132,15-274,+48 514305254
+	Linia  682496: 1947178,793386529,Dawid,Kurczewski,39959,Poland,Podlasie,Białystok,Pietkiewicza 6b m.32,15-689,883753003
+	Linia  684028: 799310,789737317,Dawid,Kiersnowski,39959,Poland,Podlasie,Białystok,ulica Ceramiczna 27,15-561,570978656
+	Linia  686899: 834142,302862670,Adam,Aronowicz,39959,Poland,Podlasie,Białystok,Ul. Komisji Edukacji Narodowej 9/49,15-687,48+ 608 859 610
+	Linia  687779: 1826799,627136629,Gabriel,Boryszewski,39959,Poland,Podlasie,Białystok,Cumownicza 8,15-587,664450948
+	Linia  707450: 2181942,364447385,Patryk,Mozolewski,39959,Poland,Podlasie,Białystok,Szarych Szeregów 5B/26,15-666,882962957
+	Linia  707706: 2001128,112017061,Iwona,Jakóbczak,39959,Poland,Podlasie,Białystok,Białystok Ul.Blokowa 4/65,15-788,693557952
+	Linia  708538: 1935444,711968735,Marcin,Popowski,39959,Poland,Podlasie,Białystok,Św.Andrzeja.Boboli 89/30,15-649,781152020
+	Linia  709050: 551529,580694719,Bartosz,Szyrenos,39959,Poland,Podlasie,Białystok,Przyrodnicza5/25,15-673,515552442
+	Linia  720993: 352346,184951517,Dawid,Roszkowski,39959,Poland,Podlasie,Białystok,Jakuba Szapiro 21,15-197,601370597
+	Linia  731065: 1247696,307785432,Damian,bed,39959,Poland,Podlasie,Białystok,kalinowa 15 nm 39,15-806,5769441
+	Linia  733966: 759456,206929177,Dawid,Piątkowski,39959,Poland,Podlasie,Białystok,Śląska 2,15-266,721386808
+	Linia  738980: 111102,416513900,Błażej,Korbut,39959,Poland,Podlasie,Białystok,Zawady 41,15-697,517926334
+	Linia  739098: 936608,576989950,Kajetan,Dąbrowski,39959,Poland,Podlasie,Białystok,Waszyngtona 24/165,15-274,539219402
+	Linia  740920: 1431563,450196640,Adam,Dobrzycki,39959,Poland,Podlasie,Białystok,Wisławy Szymborskiej 2/16,15-424,664294605
+	Linia  745924: 797083,197831062,Krzysztof,Ostaszewski,39959,Poland,Podlasie,Białystok,Rumiankowa 22/19,15-665,576126213
+	Linia  749518: 860988,271062839,Gabriel,Frankowski,39959,Poland,Podlasie,Białystok,Towarowa 8a/91,15-007,698955333
+	Linia  749568: 199291,401380941,Szymon,Ławreszuk,39959,Poland,Podlasie,białystok,Planetarna 34,15683,889499266
+	Linia  749665: 153237,131027276,Abdul Mughis,Rana,39959,Poland,Podlasie,Białystok,akademicka 28a apparment 36,15-267,+48666177429
+	Linia  753659: 410130,144094504,Szymon,Niczewski,39959,Poland,Podlasie,Białystok,Produkcyjna 23/1,15-680,504734103
+	Linia  756111: 607533,308174498,Szymon,Skłodowski,39959,Poland,Podlasie,Białystok,Grzybowskiego 67A,15-635,734481382
+	Linia  763110: 1314609,538686466,Paweł,Stanisławski,39959,Poland,Podlasie,Białystok,Tysiąclecia P.P 60/44,15-111,660868332
+	Linia  771804: 617459,706013803,Łukasz,Joszczyk,39959,Poland,Podlasie,Białystok,Dojlidy Górne 38, Białystok,15-572,697854190
+	Linia  773731: 1299351,572367901,Mikołaj,niesterczuk,39959,Poland,Podlasie,Białystok,Czereśniowa 5,15-580,576966640
+	Linia  778350: 620527,187369513,Przemysław,Ciżyńskk,39959,Poland,Podlasie,Białystok,Bitwy Białostockiej 25/14,15-102,690929232
+	Linia  779026: 858440,843494304,Kacper,Dakowicz,39959,Poland,Podlasie,Białystok,Dziesięciny 3\36,15-806,793080223
+	Linia  781295: 1720643,774858142,Ksawery,Ryciuk,39959,Poland,Podlasie,Białystok,60b Starosielce,15-670,733773472
+	Linia  783487: 2236406,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia  783755: 1526053,490442733,Piotr,Witkowski,39959,Poland,Podlasie,Białystok,Towarowa 20/79,15-007,576345769
+	Linia  789818: 1397191,374021440,Kamil,Rogucki,39959,Poland,Podlasie,Białystok,Kozłowa 10,15-868,889071091
+	Linia  793461: 701897,695554880,Krystian,Handzlik,39959,Poland,Podlasie,Białystok,Zielonogórska 26/39,15-674,695167767
+	Linia  796504: 1941700,362295278,IWONA,DMITRUK,39959,Poland,Podlasie,BIAŁYSTOK,DOBRA 8/16,15-034,604627573
+	Linia  807468: 2325353,301599724,Juliusz,Wysztygiel,39959,Poland,Podlasie,Białystok,Białowieska 18,15-236,+48 697170249
+	Linia  812166: 800797,665615828,Alex,Indries,39959,Poland,Podlasie,Białystok,Jacka Soplicy 19,15-521,690804111
+	Linia  816697: 1540012,396752825,Eryk,Łozowski,39959,Poland,Podlasie,Białystok,Andersa 7A,15-124,603354169
+	Linia  819335: 855636,912993687,Cezary,Gąsiewski,39959,Poland,Podlasie,Białystok,Komisji Edukacji Narodowej 7/26,15-687,884033057
+	Linia  830113: 726054,335292830,Mateusz,Stankiewicz,39959,Poland,Podlasie,Białystok,Piotra Skargi 9,15-198,791458129
+	Linia  831130: 576532,559973081,Franek,Waszkiewicz,39959,Poland,Podlasie,białystok,Niewodnica kościelna leśna polana 3L,18-106,790 440 777
+	Linia  844545: 248892,841348541,Ksawier,Przytuło,39959,Poland,Podlasie,Białystok,Pogodna 25, 48,15-365,606462970
+	Linia  854372: 1365626,591196523,Filip,Dubiejko,39959,Poland,Podlasie,Białystok,Konstytucji 3 maja 22a 54,15-776,797624398
+	Linia  860835: 1583252,346074261,ania,sania,39959,Poland,Podlasie,Białystok,malmeda 8 /18,15-772,539365306
+	Linia  865003: 837296,397178216,Bartosz,Dąbrowski,39959,Poland,Podlasie,Białystok,street Upalna34/4,15-668,793458000
+	Linia  866677: 2100130,237845159,Klaudia,ostapczuk,39959,Poland,Podlasie,białystok,Ekologiczna 14 / 42,15-673,698905785
+	Linia  867265: 1074032,880791544,Michał,Siemieniuk,39959,Poland,Podlasie,Białystok,Al. 1000-lecia PP 75/13 m.4,15-111,606297770
+	Linia  883239: 1565037,259092718,Olaf,Mieleszko,39959,Poland,Podlasie,Białystok,Zielonogórska 19/1,15-674,514115557
+	Linia  896375: 375342,558079464,Jacek,Młynarczuk,39959,Poland,Podlasie,Białystok,al.Jana Pawla ll 102,15-704,600096320
+	Linia  898361: 2039833,284730989,Szymon,Markowski,39959,Poland,Podlasie,Białystok,Zielna 27D,15-339,513707837
+	Linia  902015: 2223552,260407199,Julka,Piszczatowska,39959,Poland,Podlasie,Białystok,Mieszka I 1/57,15-054,666239172
+	Linia  902504: 1265610,743390339,mateusz,pierzchanowski,39959,Poland,Podlasie,Białystok,antoniukowska 46/12,15-845,606593224
+	Linia  918941: 1798574,410536607,Kuba,Zimnoch,39959,Poland,Podlasie,Białystok,M.Konopnickiej 10/7,15-215,669967259
+	Linia  920823: 234640,739982675,Hubert,Mazur,39959,Poland,Podlasie,Białystok,Hołówki Małe 7,16-061,786971289
+	Linia  923863: 494213,494454685,joanna,ptaszynska ,39959,Poland,Podlasie,Białystok,bema 99/31,16-370,514753411
+	Linia  928307: 2221690,453493863,Patryk,Pycia,39959,Poland,Podlasie,Białystok,Swobodna 45/19,15-756,691811213
+	Linia  929368: 1188198,210393625,Ariel,Tkaczuk,39959,Poland,Podlasie,Białystok,Transportowa 2a 82,15-399,699675004
+	Linia  931369: 1707871,390768359,Bartosz,Dworakowski,39959,Poland,Podlasie,Białystok,Bitwy Białostockiej 27/6,15-102,514342643
+	Linia  933933: 2059900,664527714,Oskar,Pietuszewski,39959,Poland,Podlasie,Białystok,42 Pułku Piechoty 72S /35,15-181,530578965
+	Linia  943041: 1459895,620467385,Adrian,Wojciuk,39959,Poland,Podlasie,Białystok,Sybiraków 15/55,15-204,530416426
+	Linia  947832: 488537,589173703,kris,kondrusik,39959,Poland,Podlasie,BIAŁYSTOK,Strzelecka 4D,15345,791072479
+	Linia  948737: 1334987,579275074,Bartosz,Świtaj,39959,Poland,Podlasie,Białystok,ul. Kraszewskiego 15/3,15-024,600141678
+	Linia  950143: 2236408,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia  950654: 1763751,248624931,Kacper,Sakowski,39959,Poland,Podlasie,Białystok,Kraszewskiego 9A/7,15-024,+48 796386645
+	Linia  953092: 1998923,161835947,Renata,Małyszko,39959,Poland,Podlasie,Białystok,Hallera 40 /182,15-814,500654202
+	Linia  962575: 471171,681975689,Patryk,Talipski,39959,Poland,Podlasie,Białystok,Klepacze ulica krótka 4,15-635,518856116
+	Linia  964885: 610066,385130233,Jan,Swiderski,39959,Poland,Podlasie,Białystok,Liliowa 32T,15-690,531563191
+	Linia  974386: 1930785,844073508,Emre,Erbayraktar,39959,Poland,Podlasie,Białystok,Jerzego Waszyngtona 23A,15-269,+48881485644
+	Linia  989767: 1551752,182212157,Maksymilian,Ostrowski,39959,Poland,Podlasie,Białystok,Łąkowa 3/128,15−017,731193997
+	Linia  990859: 1011214,604598030,Maks,Ignatiuk,39959,Poland,Podlasie,białystok,Łucji Prus 16,15-197,604433866
+	Linia 1001937: 2246669,633623454,Konrad,Bogacz,39959,Poland,Podlasie,Białystok,Sienkiewicza 89/7,15-003,723842747
+	Linia 1003634: 758658,570298686,dawid,zograwski,39959,Poland,Podlasie,białystok,Baranowicka143E,15-554,504005414
+	Linia 1007913: 1603539,121672539,patryk,putkowski,39959,Poland,Podlasie,Białystok,Bukowskiego 1/6,15-066,600168227
+	Linia 1009151: 837295,397178216,Bartosz,Dąbrowski,39959,Poland,Podlasie,Białystok,street Upalna34/4,15-668,793458000
+	Linia 1016897: 1624882,587973088,Kacper,Pawilcz,39959,Poland,Podlasie,Białystok,Marynarska 3a,15-591,575412341
+	Linia 1028636: 1323962,942913714,Mariusz,Gromko,39959,Poland,Podlasie,Białystok,Daliowa 12,15-583,+48 669253725
+	Linia 1034196: 1912614,476638898,Gabriela,Plonska,39959,Poland,Podlasie,Białystok,Białystok, Sadowa 24,15-149,883989707
+	Linia 1040349: 1038724,175994317,Patryk,Fiłończuk,39959,Poland,Podlasie,Białystok,Sikorskiego 20/12,15-667,692865062
+	Linia 1048429: 586121,358006209,Ela,Purwin,39959,Poland,Podlasie,Białystok,Dojlidy Górne 133E,15-581,664578430
+	Linia 1060802: 823758,433212495,Szymon,Sokołowski,39959,Poland,Podlasie,Białystok,Zwierzyniecka 31,15-246,537628268
+	Linia 1064574: 2222167,854458680,Mateusz,Kwiatkowski,39959,Poland,Podlasie,Białystok,Witosa 15/2,15-660 Białystok,+48784998558
+	Linia 1066759: 440701,230672102,Adrian,Kociecki,39959,Poland,Podlasie,Białystok,Mikołaja Kopernika 2/180 
+	Linia 1066832: 1428534,438557757,Honorata,Maslowska,39959,Poland,Podlasie,Białystok,Generała Józefa Hallera 25/14,14-815,+48600033501
+	Linia 1071092: 1760452,588434836,Mateusz,Ostapczuk,39959,Poland,Podlasie,Białystok,Kredytowa 4,15-336,798015246
+	Linia 1104007: 497027,231254571,Krystian,Księżopolski,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 7
+	Linia 1109098: 298776,150201231,Krystian,Roszkowski,39959,Poland,Podlasie,Białystok,Sikorskiego 24/5,15-667,798920716
+	Linia 1109351: 1322292,570298686,Cyprian,Kurszel,39959,Poland,Podlasie,Białystok,Grażyny Bacewicz 10,15-185,504005414
+	Linia 1126806: 1492677,606425489,Patryk,Hetmańczyk,39959,Poland,Podlasie,Białystok,Waszyngtona 18/159,15-274,732236719
+	Linia 1130533: 1769134,948674365,Bohdan,Linskyi,39959,Poland,Podlasie,Białystok,Ul.Ks.Suchowolca 26,15-567,+48500483735
+	Linia 1131907: 1098498,558863156,Volodymir,Varadovskyi,39959,Poland,Podlasie,Białystok,Hetmańska 103,15-727,730511656
+	Linia 1133271: 2004437,109473759,Małgorzata,Bagińska,39959,Poland,Podlasie,Białystok,Strażacka 33,15-687,883643000
+	Linia 1137428: 1901907,396014858,Rafał,Śliwka,39959,Poland,Podlasie,Białystok,ul.Władysława Broniewskiego 1,15-748,722286690
+	Linia 1138304: 2070345,299026487,Gabriela,Dubiejko,39959,Poland,Podlasie,Białystok,Konstytucji 3 Maja 22A/54,15/776,793679944
+	Linia 1139806: 670106,409218167,Dawid,Jakubiec,39959,Poland,Podlasie,Białystok,Baranowicka 143 e,15-554,504280827
+	Linia 1141204: 607541,308174498,Szymon,Skłodowski,39959,Poland,Podlasie,Białystok,Grzybowskiego 67a,15-635,734481382
+	Linia 1146188: 172708,257818804,Juliusz,Tarnowski,39959,Poland,Podlasie,Białystok,Zachodnia 32/12A,15-345,575648349
+	Linia 1147736: 704723,800561927,Kamil,Kuberski,39959,Poland,Podlasie,Białystok,Kaszmirowa 2,15-680,533306490
+	Linia 1150396: 1609569,973637418,Kacper,Fiedorow,39959,Poland,Podlasie,Białystok,Generała Józefa Bema 64 apartament numer 10,15-370,536037200
+	Linia 1152221: 1681859,817262094,Tomasz,Falkowski,39959,Poland,Podlasie,Białystok,Mrówcza 3,15-342,536022182
+	Linia 1153718: 2236409,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia 1169065: 1824573,272949454,Marcin,Siemieniuk,39959,Poland,Podlasie,Białystok,Konwaliowa 9/14, 15-674 Białystok,15-674,+48690010515
+	Linia 1176781: 359435,522050403,Jakub,Lenkiewicz,39959,Poland,Podlasie,Białystok,Ryska 3A/76,15-008,+48881229722
+	Linia 1183652: 2194604,783322752,Antoni ,Antoni,39959,Poland,Podlasie,Białystok,Władysława Raginisa 87,15-161,514765015
+	Linia 1185059: 670132,497654920,Patryk,Trofim,39959,Poland,Podlasie,Białystok,Michała pietkiewicza 6/6,15-689,662951442
+	Linia 1189252: 307898,727187912,Daniel,Szczykowski,39959,Poland,Podlasie,Białystok,Zachodnia 15
+	Linia 1190390: 1694352,872370481,Cyprian,Winiarski,39959,Poland,Podlasie,Białystok,Daljowa 2A,15-054,728212278
+	Linia 1192266: 797688,534877981,Adrian,Sokół,39959,Poland,Podlasie,Białystok,Dziesięciny 82,15-806,731545164
+	Linia 1193455: 108580,585385984,Adam,Dziejma,39959,Poland,Podlasie,Białystok,Południowa 37,15-341,791735501
+	Linia 1194299: 195433,440110504,Jan,Pawłowski,39959,Poland,Podlasie,Białystok,szkolna 1a,15-640,504725199
+	Linia 1225334: 1670413,238993915,tomek,kar,39959,Poland,Podlasie,Białystok,Broniewskiego
+	Linia 1238651: 2325859,613037025,Dawid,Tworkowski,39959,Poland,Podlasie,Białystok,Świętego Andrzeja Boboli 89/16
+	Linia 1239511: 1613519,661214755,bruno,moraljan,39959,Poland,Podlasie,Białystok,Akademicka 8/5,15-267,533152675
+	Linia 1254709: 1088975,990821717,Franek,Buzun,39959,Poland,Podlasie,Białystok,Zacisze 1,15-180,723299322
+	Linia 1263811: 1389738,257395750,Konrad,Tarasiewicz,39959,Poland,Podlasie,Białystok,Czarna 2/23,15-395,530148233
+	Linia 1280421: 505886,400334260,Michał,Kondraciuk,39959,Poland,Podlasie,Białystok,Diamentowa 37,15-161,737944714
+	Linia 1296163: 833631,532052754,Adam,Paszko,39959,Poland,Podlasie,Białystok,Emila Zoli 3,15-166,+48533302445
+	Linia 1300610: 1528085,497464471,Aliaksei,Pliatsiukhin,39959,Poland,Podlasie,Białystok,Szarych Szeregów 12,15-666,+48694679229
+	Linia 1313759: 2055899,655476799,Kamil,Radziewicz,39959,Poland,Podlasie,Białystok,Kraszewskiego 23/8,15-024,517731412
+	Linia 1322272: 668084,459679737,Paweł,Cimoch,39959,Poland,Podlasie,Białystok,ul. Św. Rocha 14a lok. 41,15-879,+48 793 571 973
+	Linia 1324621: 622136,700300225,Dawid,Piątkowski,39959,Poland,Podlasie,białystok,Śląska 2,15-266,721386808
+	Linia 1325184: 1903721,553815551,Krystian,Roszkowski,39959,Poland,Podlasie,Białystok,Ogrodniczki 45A, Białystok ,15-763,15-763,784917208
+	Linia 1326495: 203999,767008266,Xavier ,Jewiak,39959,Poland,Podlasie,Białystok,Wiejska 55 / 6a,15-351,577896966
+	Linia 1327444: 391999,357127353,Filip,Malinowski,39959,Poland,Podlasie,Białystok,Lawendowa 83/6,15-642,799964723
+	Linia 1328569: 659859,188038895,Pawel,Michalski,39959,Poland,Podlasie,Białystok,Jana Pawla 2 61B/29,15-704,607566107
+	Linia 1329166: 1655098,906156840,adam,bukraba,39959,Poland,Podlasie,Białystok,Mieszka 1 11/35,15-054,690091240
+	Linia 1332613: 2231375,402915954,Bartosz,Trzciński,39959,Poland,Podlasie,Białystok,Obłoków 18/2,15-156,794171812
+	Linia 1342670: 1615334,866077747,Patryk,Lapinski,39959,Poland,Podlasie,Białystok,ul. Gajowa 32/27,15-794,502025410
+	Linia 1345510: 2087017,763535366,Szymon,Sadowski,39959,Poland,Podlasie,Białystok,Świętego Andrzeja Boboli 87/16,15-649,518487855
+	Linia 1347073: 1066255,833823472,Piotr,Rogowski,39959,Poland,Podlasie,Białystok,Tysiąclecia Państwa Polskiego 50/51,15-111,533169860
+	Linia 1348729: 299582,377578271,Mist,Erekk,39959,Poland,Podlasie,Białystok,Rumianowka 4/1,15-220,584924854
+	Linia 1352383: 1427571,203220514,ola,Zielińska,39959,Poland,Podlasie,Białystok,komisji edukacji narodowej 40/23,15-687,573356993
+	Linia 1353162: 892660,312820618,Oskar,Panas,39959,Poland,Podlasie,Białystok,1a,15-672,694713472
+	Linia 1353810: 742697,557679199,Julian,Brzostowski,39959,Poland,Podlasie,Białystok,Bacieczki 219/56,15-685,577841030
+	Linia 1354270: 1517193,925655929,Marcel,Gierejko,39959,Poland,Podlasie,Białystok,Zabłudowska 35,15-585,570703953
+	Linia 1356955: 2257980,647095272,Kacper,Karny,39959,Poland,Podlasie,Białystok,Halickie 2L,15-593,506759081   
+	Linia 1359806: 509973,87679881,Jan,Suchocki,39959,Poland,Podlasie,Białystok,Ukośna 7/40,15-836,517405944
+	Linia 1368850: 1564710,321707715,Cezary,Poczobutt Odlanicki,39959,Poland,Podlasie,Białystok,Pogodna 7/64,15-354,882842611
+	Linia 1369866: 2346254,743632280,Kacper,Potapczyk,39959,Poland,Podlasie,Białystok,Armii Krajowej 9/20,15-661,790284445
+	Linia 1378689: 2113637,584204998,Wiktoria,Janucik,39959,Poland,Podlasie,Białystok ,Białystok ,16-080,665487096
+	Linia 1379303: 2080921,813037011,Jan,Roszkowski,39959,Poland,Podlasie,Białystok,Andrukiewicza 4/15,15-204,505449140
+	Linia 1391668: 245530,454502577,Patryk,Dziekoński,39959,Poland,Podlasie,Białystok,Wydmowa 8,15-587,665457669
+	Linia 1403834: 918816,283295427,Gabriela,Olszewska,39959,Poland,Podlasie,Białystok,Marii Konopnickiej 5/57,15-215,662803800
+	Linia 1404942: 1314606,538686466,Paweł,Stanisławski,39959,Poland,Podlasie,Białystok,Tysiąclecia P.P 60/44,15-111,660868332
+	Linia 1406507: 1078180,868492431,Kacper,Kucharewicz,39959,Poland,Podlasie,Białystok,street. Solnicka 38,15-580,+48882894686
+	Linia 1413687: 1310001,233435390,Bartek,Zdanuczyk,39959,Poland,Podlasie,Białystok,Sokólska 5/18,15-865,883310358
+	Linia 1428847: 1923349,887695749,kuba,lompart,39959,Poland,Podlasie,Białystok,Orla 2 number 4,15-021,507732589
+	Linia 1443002: 1910178,884807576,Bartosz,Grądzki,39959,Poland,Podlasie,Białystok,Generała Józefa Hallera
+	Linia 1451579: 486916,576157950,Damian,Suhak,39959,Poland,Podlasie,Białystok,Wiejska 71/52,15-351,+48 502059053
+	Linia 1454634: 1843894,198606908,Konrad,Kropiwnicki,39959,Poland,Podlasie,Białystok,Octowa 24 Agencja Celna Expert,15-399,789240102
+	Linia 1456888: 1033596,259946956,Karol,Bobryk,39959,Poland,Podlasie,Białystok,Liniowa 54,15-587,883510444
+	Linia 1458854: 1449575,744823119,Kamil,Cieśluk,39959,Poland,Podlasie,Białystok,Brzoskwiniowa
+	Linia 1461796: 486594,824364389,Bartosz,Cimoszko,39959,Poland,Podlasie,Białystok,Młynowa 64/21,15-405,577994430
+	Linia 1465316: 1952265,428966818,salman,chhadh,39959,Poland,Podlasie,Białystok,Młynowa46 piętro3 nr mieszkania 190,15-404,693250815
+	Linia 1480471: 375632,861033886,Oskar,Szymański,39959,Poland,Podlasie,Białystok,Lawendowa 87/7,15-642,795775988
+	Linia 1481590: 899418,706150565,Kacper,trochimczyk,39959,Poland,Podlasie,Białystok,11 listopada 6a/1,15-320,517 461 539
+	Linia 1485973: 958268,867775860,Izabela,Orłowska,39959,Poland,Podlasie,Białystok,Wspólna 7,15-340,501384311
+	Linia 1488068: 1143247,691572839,Jakub,Grabowski,39959,Poland,Podlasie,Białystok,Antoniukowska 23/59,15-740,660 444 122
+	Linia 1501232: 1290024,799366284,Filip,Galant,39959,Poland,Podlasie,Białystok,Gruntowa 6/5,15-706,796710476
+	Linia 1503094: 2053570,847612881,Przemysław,Nikitorowicz,39959,Poland,Podlasie,Białystok,Św. Jerzego 43/21,15-349,+48533536572
+	Linia 1511251: 1799689,922546148,filip,lisowski,39959,Poland,Podlasie,białystok,gajowa 61 lokal fryzjerski,15-794,507313714
+	Linia 1519418: 2317115,368542951,Bogdan,Jaroszuk,39959,Poland,Podlasie,Białystok,Studzienna 6/24 Białystok,15-771,503448523
+	Linia 1539570: 1718136,823105640,Jakub,Matejczuk,39959,Poland,Podlasie,Białystok,Komisji Edukacji Narodowej 42/26,15-687,+48518055102
+	Linia 1550952: 1440445,577153256,Piotr,Bura,39959,Poland,Podlasie,Białystok,Dworska 3/12,15-756,517060446
+	Linia 1559991: 585594,974379285,Edwin,Wasilewski,39959,Poland,Podlasie,Białystok,Łąkowa 14/26,15-017,+48 692 011 251
+	Linia 1562595: 1152627,917072371,cench,amiri,39959,Poland,Podlasie,Białystok,Dziesieciny 41/37,15-806,739610653
+	Linia 1577536: 1065981,460669972,Maciej,Dudziuk,39959,Poland,Podlasie,Białystok,6, Atłasowa 19,15-680,884948885
+	Linia 1585319: 1429177,825213954,Maciek,Przezdembski,39959,Poland,Podlasie,Białystok,Batalionow chłopskich 16/16,15-661,791027995
+	Linia 1592433: 1996159,872370481,Cyprian,Winiarski,39959,Poland,Podlasie,Białystok,Mieszka 1 7 mieszkanie 59,15-054,728212278
+	Linia 1594921: 1373611,257877706,Kacper,Łupiński,39959,Poland,Podlasie,Białystok,Sokólska 7/1,15-865,730118513
+	Linia 1608766: 1589369,828774480,Dymitry,Marczuk,39959,Poland,Podlasie,Białystok,ulica Prowiantowa 17 lokal 92,15-707,+48 531 137 201
+	Linia 1610812: 2221691,453493863,Patryk,Pycia,39959,Poland,Podlasie,Białystok,Swobodna 45/19,15-756,691811213
+	Linia 1611366: 508421,541242701,Fabian,Nicolae,39959,Poland,Podlasie,Białystok,Sikorskiego 2/13,15-667,733478262
+	Linia 1612722: 867268,425847378,Piotr,Orzełowski,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 2/17,15-689,532252943
+	Linia 1613419: 1183580,223725721,Anna,Grygoruk,39959,Poland,Podlasie,Białystok,Kopernika 3/60
+	Linia 1613420: Białystok
+	Linia 1614427: 1353515,651163581,Kuba,Harasimowicz,39959,Poland,Podlasie,Białystok,Armii Krajowej 31/30,15-661,786912831
+	Linia 1627674: 2070408,577231812,Maciej,Zamajtys,39959,Poland,Podlasie,Białystok,Słonimska 32/30,15-029,792296020
+	Linia 1631344: 1484798,943243539,Maria,Arendt,39959,Poland,Podlasie,Białystok,Zagórna 6/20,15-820,510106510
+	Linia 1642715: 2199542,464383119,Jakub,Waszkiewicz ,39959,Poland,Podlasie,Białystok ,Orzechowa 38,15-822,578012725
+	Linia 1645395: 6120,62992271,Mikołaj,markiewicz,39959,Poland,Podlasie,Białystok,rzemieślnicza 32/39,15-773,+48533171104
+	Linia 1658602: 1413392,874973679,Krystian,Kryński,39959,Poland,Podlasie,Białystok,Aleja Piłsudskiego 12/23,15-445,692196711
+	Linia 1659139: 1447283,762131128,Szymon,Bohdan,39959,Poland,Podlasie,Białystok,Zagórna 2H, 35,15-820,881522882
+	Linia 1661345: 1415470,559810246,Blanka,Jacuńska,39959,Poland,Podlasie,Białystok,Waryńskiego 38,15-461,788327887
+	Linia 1669599: 586637,620146094,Dominik,Łazarczyk,39959,Poland,Podlasie,Białystok,Dworska 74,15-756,662665287
+	Linia 1674095: 78761,726558354,Tomasz,Wasilewski,39959,Poland,Podlasie,Białystok,Akademicka 28/37,15-267,736872871
+	Linia 1679435: 973198,183486140,Gabriel,Radziwon,39959,Poland,Podlasie,Białystok,Upalna,15-668,575388110
+	Linia 1682281: 2331860,430121114,Michal,Grygorczuk,39959,Poland,Podlasie,Białystok ,Wiatrakowa 3/7,15-827,+48504400044
+	Linia 1682694: 1415462,922506467,kacper,harasimczuk,39959,Poland,Podlasie,Białystok,komisji edukacji narodowej 44/33,15-687,727578872
+	Linia 1685966: 123505,203197472,Mariusz,Golonko,39959,Poland,Podlasie,Białystok,Elewatorska 60,15-620,664394394
+	Linia 1690771: 395805,196408075,Igor,Sołowiej,39959,Poland,Podlasie,Białystok,Gajowa 59 mieszkanie 66,15-794,537859392
+	Linia 1691496: 1416140,902748113,Justyna,Bieniak,39959,Poland,Podlasie,Białystok,Waryńskiego 38/9,15-461,660522426
+	Linia 1698480: 1430181,987117654,Marcel,Halicki,39959,Poland,Podlasie,Białystok,Szarych Szeregów 23/12 Białystok,15-666,+48791068203
+	Linia 1704119: 711834,781282312,Adam,Czeski,39959,Poland,Podlasie,Białystok,Zapiecek 9
+	Linia 1705234: 1832741,967639702,Julia,pianko,39959,Poland,Podlasie,Białystok,zaułek Podlaski 54,15-546,734448726
+	Linia 1705484: 1272877,963171458,Sebastian,Tałałaj,39959,Poland,Podlasie,Białystok,Aleja 1000-lecia państwa polskiego 48/13,15-111,729927310
+	Linia 1705727: 1485328,247544958,Bartosz,Krasnopolski,39959,Poland,Podlasie,Białystok,ul. Wita Stwosza 13,15-166,576066816
+	Linia 1708424: 1751949,908196293,Mateusz,Kiszkorno,39959,Poland,Podlasie,Białystok,Oliwkowa 5f/25,15-797,733785245
+	Linia 1710457: 212718,574239034,Maciej,Sienkiewicz,39959,Poland,Podlasie,Białystok,Bohaterów Monte Cassino 11/24,15-873,516683567
+	Linia 1713011: 2032538,274787415,Gracjan,Zdanowicz,39959,Poland,Podlasie,Białystok,Palmowa 36/2,15-795,576566609
+	Linia 1731831: 1719949,225365649,Przemyslaw,Sikorski,39959,Poland,Podlasie,Białystok,ulica Włókiennicza 17/13,15-464,+48 880214702
+	Linia 1733870: 393100,212941208,Cyprian,Borona,39959,Poland,Podlasie,Białystok,Próżna 4
+	Linia 1740089: 1720897,289217469,Kuba,Romanczuk,39959,Poland,Podlasie,Białystok,prowiantowa 28,15-707,661655686
+	Linia 1744653: 532287,860709791,Anna ,Malinowska,39959,Poland,Podlasie,Białystok,16 Rynek Kościuszki,15-426,511911601
+	Linia 1746408: 1452513,447778096,michal,wojcik,39959,Poland,Podlasie,Białystok,Waszyngtona 18/106 Białystok,15-274,884086890
+	Linia 1771988: 1716185,318305700,Maciej,Adamski,39959,Poland,Podlasie,Białystok,Kraszewskiego 22a nr54,15-025,537318850
+	Linia 1777869: 644460,823105640,Dominik Kacper,Dąbrowski,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 2/4,15-689,535920887
+	Linia 1785121: 372071,394709905,Miłosz,Mielnicki,39959,Poland,Podlasie,Białystok,Jutrzenki 6,15-157,539929915
+	Linia 1787563: 392949,139481729,Mateusz,Sawejko,39959,Poland,Podlasie,Białystok,Malwowa 1,15-578,730868493
+	Linia 1788109: 1563609,633961882,Maciej,Łodko,39959,Poland,Podlasie,Białystok,szpitalna 42 apartment 2,15-295,603648256
+	Linia 1799326: 1464469,559228814,Stanisław,Ambrożewicz,39959,Poland,Podlasie,Białystok,Kard. St. Wyszyńskiego 4a,55,+48695494274
+	Linia 1799939: 341629,283076606,Kuba,Banasiuk,39959,Poland,Podlasie,białystok,Dolna 26b,15-696,501756785
+	Linia 1805267: 2344737,135630517,Mateusz,Puchalski,39959,Poland,Podlasie,Białystok,Przygodna 14 m.19,15-032,605905837
+	Linia 1811178: 407810,229887665,Michał,Haponiuk,39959,Poland,Podlasie,Białystok,Dubois 6/28,15-349,668370056
+	Linia 1815032: 1146979,447438042,Tomasz,Sadowski,39959,Poland,Podlasie,Białystok,swobodna 56 apartment nr. 24,14-775,+48722306575
+	Linia 1823779: 1698861,640607463,Piotr,Wysokinski,39959,Poland,Podlasie,Białystok,skorupska 28/37,15-048,519581020
+	Linia 1827959: 2279284,680689623,Ewa,Gwizdak,39959,Poland,Podlasie,Białystok,Józefa Mackiewicza 1/47,15-779,516695998
+	Linia 1829816: 2005433,190274340,Miłosz,Przegaliński,39959,Poland,Podlasie,Białystok,końcowa 42,15-697,+48536123220
+	Linia 1837330: 327997,407320226,Emil,Dojlida,39959,Poland,Podlasie,Białystok,Świętego Andrzeja Boboli 48,15-649,730246166
+	Linia 1839341: 715313,341612278,Katarzyna,Gniedziejko,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 21/7,15-689,+48576998043
+	Linia 1847712: 532043,761400818,Igor,Kiryluk,39959,Poland,Podlasie,Białystok,Bajeczna 23,15-578,517363573
+	Linia 1853018: 166766,186760650,Paweł,Michalik,39959,Poland,Podlasie,Białystok,8a/114 Wyszyńskiego,15-888,577252872
+	Linia 1862566: 2323573,811773824,Yarek,Eismont,39959,Poland,Podlasie,Białystok,Sukienna 8 local 106,15-881,+48786903676 
+	Linia 1866338: 1076875,132867409,kanstantsin,dolgopolik,39959,Poland,Podlasie,Białystok,pogodna 4B number 67,15-354,+48881224809
+	Linia 1867935: 1907556,355510778,fabian,iliaszuk,39959,Poland,Podlasie,białystok,Borsukówka 20,16-001,536930003
+	Linia 1868340: 1346460,705009631,Błażej,Szymański,39959,Poland,Podlasie,Białystok,Zielonogórska 5/7,15-674,882180068
+	Linia 1868996: 108932,262485627,Stanisław,Łupński,39959,Poland,Podlasie,Białystok,Gruntowa 3/73,15-706,881447654
+	Linia 1886641: 2265102,751318746,Daniel,Zaworonek,39959,Poland,Podlasie,Białystok,Michala Pietkiewicza 6A/5,15-689,0048539624563
+	Linia 1893342: 1474545,872260611,Filip,Klimaszewski,39959,Poland,Podlasie,Białystok,Zwierzyniecka 13/153,15-302,531364466
+	Linia 1899172: 2174190,753533147,seweryn,Klimaszewski,39959,Poland,Podlasie,białystok,Kazimierza Pułaskiego 125/31,15-337,509975455
+	Linia 1902364: 1948466,148516451,Cezary,Kuprianowicz,39959,Poland,Podlasie,Białystok,Białystok chłopska13B,15-185,501837710
+	Linia 1905700: 381700,638318584,jakub,grygoruk,39959,Poland,Podlasie,białystok,św wojciecha 
+	Linia 1906068: 2187056,561860581,Kacper,Staworko,39959,Poland,Podlasie,Białystok,Piaskowa 14,15-561,518446827
+	Linia 1906793: 1252808,416406277,Piotr,Szamrej,39959,Poland,Podlasie,Białystok,Marczukowska 21,15-724,+48732135655
+	Linia 1910113: 1253346,976419857,Wiktoria,Huszcza,39959,Poland,Podlasie,Białystok,Wiklinowa 14/4,15-157,733470004
+	Linia 1912139: 182246,387201086,Daniel,Żodzik,39959,Poland,Podlasie,Białystok,Białkowskiego 17,15-197,533380800
+	Linia 1915407: 1167217,559497663,Antoni,Kardasz,39959,Poland,Podlasie,Białystok,Hallera 25/65,15-814,+48 504939915
+	Linia 1930339: 684808,886582029,Błażej,Jackowiak,39959,Poland,Podlasie,Białystok,Kokosowa 2C,15-797,506506223
+	Linia 1930855: 1967921,518040275,Kacper,Pona,39959,Poland,Podlasie,Białystok,Komisji Edukacji Narodowej 50 m 19,15-687,608233979
+	Linia 1941430: 1901368,614692584,Eryk,Biegańsk,39959,Poland,Podlasie,Białystok,Zielonogórska 8/26,15-674,792365368
+	Linia 1942557: 1279697,612589058,Piotr,Markowski,39959,Poland,Podlasie,Białystok,lipowa 33a lok. 1,15-424,666469186
+	Linia 1948237: 1568124,372790429,Maksymilian,Wiszowaty,39959,Poland,Podlasie,Białystok,Warmińska
+	Linia 1956917: 344783,514091994,Alan,Jakuć,39959,Poland,Podlasie,Białystok,Brzoskwiniowa 36a,15-584,574163702
+	Linia 1957776: 596914,953984282,Dominik,Giro,39959,Poland,Podlasie,Białystok,Aleja Jana Pawła II 61A/30,15-753,534838174
+	Linia 1960464: 2236411,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia 1971422: 2223229,684744752,Gabriel ,Szczykowski ,39959,Poland,Podlasie,Białystok ,Artura grottgera 11.,15-225 ,500507164 
+	Linia 1976927: 758668,570298686,dawid,zograwski,39959,Poland,Podlasie,białystok,Baranowicka143E,15-554,504005414
+	Linia 1987132: 1664336,443991472,Maksymilian,skrzypek,39959,Poland,Podlasie,Białystok,Jaśminowa 80,15-814,661535076
+	Linia 1988714: 1150688,166748904,Kacper,Tomaszewski,39959,Poland,Podlasie,Białystok,Swobodna 28/41,15-756,723716007
+	Linia 1991905: 2185114,441373997,Piotrek,Puciłowski,39959,Poland,Podlasie,Białystok,Michała Pietkiewicza 6a/4,15-689,737168405
+	Linia 1993190: 1501392,348582474,Adam,Lenczewski,39959,Poland,Podlasie,Białystok,Trawiasta 6/38,15-161,664688193
+	Linia 1996767: 1945847,544986780,Gracjan,Panas,39959,Poland,Podlasie,Białystok,Oboźna 1,15-672,728225455
+	Linia 1999698: 82051,776814233,Mateusz ,Kowalski,39959,Poland,Podlasie,Białystok,Dobra 3,15-034,662679839
+	Linia 2007261: 2083229,707582396,Aleksander,Danilczuk,39959,Poland,Podlasie,Białystok,Transportowa 16 / 61,15-399,576948525
+	Linia 2019359: 2323574,811773824,Yarek,Eismont,39959,Poland,Podlasie,Białystok,Sukienna 8 local 106,15-881,+48786903676 
+	Linia 2021861: 2322965,684744752,Gabriel,Szczykowski,39959,Poland,Podlasie,białystok,mieszkanie 26 Ulica Artura Grottgera 11,15-225,500507164
+	Linia 2023055: 1480268,956101850,Marcel,Smith,39959,Poland,Podlasie,Białystok,Żyzna 20/3,15-161,570777219
+	Linia 2029446: 1670312,402307507,Jacek,Drągowski,39959,Poland,Podlasie,Białystok,Skrajna 9/11,15-663,507 420 611
+	Linia 2031195: 807754,934948613,Jakub,Paz,39959,Poland,Podlasie,Białystok,Elektronowa 7,15-692,732758741
+	Linia 2035023: 851273,767689392,wiktor,stankiewicz,39959,Poland,Podlasie,białystok,Nowowarszawska 59/1,15-205,+48600144002
+	Linia 2044475: 1383919,905491585,Julian,Manias,39959,Poland,Podlasie,Białystok,Jana Brzechwy 24,15-196,690007787
+	Linia 2050068: 338933,710659949,Mateusz,Kiczkajło,39959,Poland,Podlasie,Białystok,Feliksa Filipowicza 6/83,15-327,534001613
+	Linia 2056800: 831577,321818239,Adam,Aronowicz,39959,Poland,Podlasie,Białystok,Mieszkanie 49, Ul. Komisji Edukacji Narodowej 9,15-687,+48 608 859 610
+	Linia 2059044: 1289977,878282880,Krystian,Pokolenko,39959,Poland,Podlasie,Białystok,Hutnicza 10,15-561,783559640
+	Linia 2061018: 2359822,909429433,Andrzej,Chudziński,39959,Poland,Podlasie,Białystok,Lodowa 56a,15-698,48505118615
+	Linia 2064111: 1149171,383164930,Dawid,Grygorowicz,39959,Poland,Podlasie,Białystok,Bema 97/103,15-370,880526936
+	Linia 2064251: 1330701,623692003,w,b,39959,Poland,Podlasie,Białystok,Barszczańska 3,15-639,123542456
+	Linia 2078940: 1501500,710369741,Monika,Gańko,39959,Poland,Podlasie,Białystok,Zachodnia 28 mieszkania 4 Białystok,15-345,608112589
+	Linia 2082219: 2334796,231000053,Kuba,Kuprianowicz,39959,Poland,Podlasie,Białystok  ,Łubniki52,16060,510725448
+	Linia 2087426: 153740,558845040,Olaf,Barcewicz,39959,Poland,Podlasie,Białystok,Edwarda Pajkerta 39,15-617,+48 531826988
+	Linia 2088507: 509000,752235162,Iryna,Kalenichenko,39959,Poland,Podlasie,Białystok,Marii Konopnickiej 2A m.46,15-215,+48512421023
+	Linia 2095291: 2199432,690674421,Mateusz,Madejczyk,39959,Poland,Podlasie,Białystok ,Żeromskiego 5 lokal 2, pracownia projektową JKG
+	Linia 2097441: 2221525,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,Sybiraków 17/68
+	Linia 2097442: Białystok,15-635,+48691693429
+	Linia 2101921: 1268640,851643462,Krystian,Olempijuk,39959,Poland,Podlasie,Białystok,Bolesława Chrobrego 6a mieszkanie 20,15-057,575314804
+	Linia 2102115: 883566,307301463,Korneliusz,S,39959,Poland,Podlasie,Białystok,Mikołaja Hajduka 8,15-672,510141947
+	Linia 2111827: 1022021,651628303,Nataniel,Metenko,39959,Poland,Podlasie,Białystok,Plażowa 9/86,15-502,571248884
+	Linia 2114426: 286286,361862026,Kamil ,Świerżewski,39959,Poland,Podlasie,Białystok,Kaczorowskiego 14/61,15-375,0048795776445
+	Linia 2116497: 1532092,424218958,Mateusz,Radziwon,39959,Poland,Podlasie,Białystok,Francuska 13,15-616,888684440
+	Linia 2123077: 2240659,447129804,Rafał ,Fiłończuk ,39959,Poland,Podlasie,Białystok ,Sikorskiego 20/12 ,15-667,+48504055873
+	Linia 2125654: 473886,805638866,ksawery,siegien,39959,Poland,Podlasie,białystok,plażowa 65,15-502,731946390
+	Linia 2131399: 2244298,779590497,Bazyl,Gawryluk,39959,Poland,Podlasie,Białystok,Upalna 15/18,15-668,+48 884375733
+	Linia 2138061: 1918909,430118869,Kacper,Gawryluk,39959,Poland,Podlasie,Białystok,komisji edukacji narodowej 54/6,15-687,575772276
+	Linia 2144857: 636151,466506484,Ania,Malinowska,39959,Poland,Podlasie,Białystok,Rynek Kościuszki 16,15-126,506135983
+	Linia 2148935: 740748,426495465,michal,Bierciewski,39959,Poland,Podlasie,Białystok,ulica nowy świat 3 m44,15453,791715500
+	Linia 2166503: 2145243,219123932,kacper,owczarczuk,39959,Poland,Podlasie,Białystok,Meksykańska 48c Białystok,15-633,574328664
+	Linia 2170087: 1442185,754757328,adam,halicki,39959,Poland,Podlasie,Białystok,Komisji Edukacji Narodowej 38/76,15-687,664935415
+	Linia 2179509: 1487007,671296538,Kajetan,Laszkowski,39959,Poland,Podlasie,Białystok,Parkowa 6A/34,15-224,737456823
+	Linia 2191842: 1497687,738360837,Dawid,Sojko,39959,Poland,Podlasie,Białystok,Pietkuna 1/53,15-688,530233745
+	Linia 2194865: 852963,183638910,Jakub,Przeździecki,39959,Poland,Podlasie,Białystok,Arktyczna 4/7,15-698,+48737449003
+	Linia 2194982: 2259459,201608693,Bartosz,Krasnopolski,39959,Poland,Podlasie,Białystok,ul.Gajowa 61 apartment 54,15-794,538362742
+	Linia 2206472: 445250,249661894,kuba,polakow,39959,Poland,Podlasie,Białystok,Pułaskiego 26a/1,15-338,792764424
+	Linia 2209137: 410773,681975689,Michał,Talipski,39959,Poland,Podlasie,Białystok,Klepacze ul.krótka 4,15-635,733818066
+	Linia 2212532: 1261354,846110333,Gabriel,Romaniuk,39959,Poland,Podlasie,Białystok,Stroma 15/23,15-662,514313747
+	Linia 2214946: 2085402,487857849,Dawid,Gryguć,39959,Poland,Podlasie,Białystok,Kielecka 8,15-387,+48572077513
+	Linia 2218847: 2041623,380608877,Emilia,Wiśniewska,39959,Poland,Podlasie,Białystok,18/17 Herberta,15-779,797352298
+	Linia 2231984: 1556457,363091338,kacper,kacper,39959,Poland,Podlasie,białystok,swobodna 62/33 białystok,15-756,513400935
+	Linia 2240733: 609021,706927319,Wojciech,Kit,39959,Poland,Podlasie,Białystok,Wiatrakowa 4/2 m38,15-827,+48883953563
+	Linia 2243816: 2079274,979358030,gloria,Niegierewicz,39959,Poland,Podlasie,Białystok,Jana Zamoyskiego 52,15-698,505892416
+	Linia 2257485: 2130115,210008432,Lukas,Tyminski,39959,Poland,Podlasie,Białystok,ul.Lodowa 89
+	Linia 2258526: 1283689,107526821,Mateusz,Gromko,39959,Poland,Podlasie,Białystok,Dojlidy Górne 51b,15-581,511401765
+	Linia 2263809: 2126039,200580401,Mateusz,Tomaszewicz,39959,Poland,Podlasie,Białystok,Bohaterów Monte Cassino 11/37,15-873,+48 731744072
+	Linia 2265961: 807193,414933760,Piotr,Żółtko,39959,Poland,Podlasie,Białystok,Dubois 20/17,15-349,884022521
+	Linia 2272643: 578874,749596887,krystian,pokolenko,39959,Poland,Podlasie,Białystok,Hutnicza 10,15-561,783559640
+	Linia 2272904: 270510,179997142,Aleksander,Jabłoński,39959,Poland,Podlasie,Białystok,Biebrzańska 43,15-161,+48 798 571 032
+	Linia 2273126: 2186228,772686159,Przemek,WORONKO,39959,Poland,Podlasie,Białystok,ul.Armii Krajowej 2B/11,15-661,+48798343265
+	Linia 2279211: 904818,304757131,Hubert,Kamiński,39959,Poland,Podlasie,Białystok,Szeroka 10C/6,15-760,882 062 475
+	Linia 2280319: 1934155,851455165,kuba,Banasiuk,39959,Poland,Podlasie,białystok,Dolna 26b,15-697,501756785
+	Linia 2300531: 1410798,254485184,Мakсuм,Meлbhuчоk,39959,Poland,Podlasie,Białystok,Narewska 7B / 59,15-840,884993372
+	Linia 2303655: 2323736,647095272,Kacper,Karny,39959,Poland,Podlasie,Białystok,Halickie 2L
+	Linia 2309228: 114812,379631348,Karol,Prus,39959,Poland,Podlasie,Białystok,Adama Asnyka 14/69,15-709,510751368
+	Linia 2310804: 2037185,590643898,Kacper,Suchowierski,39959,Poland,Podlasie,Białystok,Storczykowa1/1 Mieszkanie 4,15-644,785118437
+	Linia 2317983: 536541,424260772,Damian,Surowiec,39959,Poland,Podlasie,Białystok,Słonimska 50
+	Linia 2320419: 432708,106950244,filip,wacewicz,39959,Poland,Podlasie,Białystok,Św andrzeja boboli 1/13,15-649,574367007
+	Linia 2327338: 2323090,207271505,Oliwier,Kazana,39959,Poland,Podlasie,Białystok,Mieszka I 17/21,15-044,534115322
+	Linia 2334012: 943211,884797475,Gabriel,Krzywosz,39959,Poland,Podlasie,Białystok,Palmowa 24/13,15-795,506207727
+	Linia 2341174: 68528,609551238,Olaf,Pawelczyk,39959,Poland,Podlasie,Białystok,Dobra 3,15-034,665626001
+	Linia 2342515: 2162855,161964532,Sergey,Arkhipov,39959,Poland,Podlasie,Białystok,kraszewskiego 45,15-024,+48 727460868
+	Linia 2345474: 1123518,840765826,damian,pura,39959,Poland,Podlasie,Białystok,aleja Jana Pawła 2 59B/51,15-704,+48726092147
+	Linia 2348161: 1057769,789918007,Olivier,Lubelski,39959,Poland,Podlasie,Białystok,Solnicka 6a,15580,507472057
+	Linia 2352244: 375354,558079464,Jacek,MłynarczukD.B.K,39959,Poland,Podlasie,Białystok,al.Jana Pawla ll 102,15-704,600096320
+	Linia 2356276: 497389,668910348,Pawel,Michalczuk,39959,Poland,Podlasie,Białystok,Ciepla 3a/12,15-472,0048602409211
+	Linia 2356939: 1936770,753777859,Julian,Jaworowski,39959,Poland,Podlasie,Białystok,Wiejska 69,15-351,+48 888991767
+	Linia 2363646: 483118,162585630,Alex,Rzędzien,39959,Poland,Podlasie,Białystok,Atłasowa 11/9,15 680,883733907
+	Linia 2365578: 1492546,672721847,Szymon,Gejdel,39959,Poland,Podlasie,Białystok,Ukośna 11/29,15-836,790783044
+	Linia 2378681: 1597292,766597988,Kacper,Sieczkowski,39959,Poland,Podlasie,Białystok,Kopciuszka 2,15-156,733506788
+	Linia 2378885: 1368530,982450785,krystian,niewinski,39959,Poland,Podlasie,Białystok,Komisji edukacji narodowej 9/59,15687,510628311
+	Linia 2381406: 2166711,180246277,Artur,Klopotowski,39959,Poland,Podlasie,Białystok,Olsztyńska 10/6,15-870,48501504201
+	Linia 2385685: 498497,965014281,Antoni,Nietupski,39959,Poland,Podlasie,Białystok,Dobrzyniewo Duże
+	Linia 2395196: 2044823,573176701,Dorota,Jobbagy,39959,Poland,Podlasie,Białystok,Modlińska 1    Totalizator sportowy,15-066,508430671
+	Linia 2405232: 1928984,853536174,Mateusz,Białous,39959,Poland,Podlasie,Białystok,zawady chmielowa 2a,15-697,882651770
+	Linia 2408632: 1895478,559046583,Kuba,Ok,39959,Poland,Podlasie,Białystok,Pułaskiego 117/26,15-337,537632869
+	Linia 2421989: 1066413,460870421,Michał,Kondraciuk,39959,Poland,Podlasie,Białystok,Diamentowa 37,15-161,737944714
+	Linia 2422691: 743653,432223182,Gerard,Sułek,39959,Poland,Podlasie,Białystok,Liniowa 17,15-587,729462731
+	Linia 2428478: 457520,729691516,Adam,Skrouba,39959,Poland,Podlasie,Białystok,Wesoła 6/52 / 7 piętro,15-306,601502672
+	Linia 2429856: 1698909,951390578,Patryk,Zaniewski,39959,Poland,Podlasie,Białystok,Towarowa 12 143,15-007,+48884966113
+	Linia 2437252: 941691,561677686,Miłosz,Poliński,39959,Poland,Podlasie,Białystok,Niewodnicka 88,15-631,575522213
+	Linia 2458434: 1233823,787633577,Wadim,Kaczarowski,39959,Poland,Podlasie,Białystok,Kazimierza Pułaskiego 123/9,15-337,574705993
+	Linia 2463030: 55954,724071337,Michał,Gościcki,39959,Poland,Podlasie,Białystok,Pułkowa
+	Linia 2464820: 2270372,254485184,Stanislav,Haiovskyi,39959,Poland,Podlasie,Białystok,Chełmońskiego 3,15-195,884993372
+	Linia 2466850: 1972407,564591822,Dawid,Sojko,39959,Poland,Podlasie,Białystok,Pietkuna 1/53,15-688,530233745
+	Linia 2468463: 820302,942598672,Jeremi,Miniuk,39959,Poland,Podlasie,Białystok,Dziesięciny 7/147,15-806,530876210
+	Linia 2475939: 1536109,357239535,Karolina,Krulik,39959,Poland,Podlasie,Białystok,Bajeczna 8/1,15-578,505899123
+	Linia 2480818: 317505,906014936,xxxx,xxxx,39959,Poland,Podlasie,Białystok,xxxx,15-600,1111111231231
+	Linia 2485227: 742751,295093872,Krzysztof,Zarzecki,39959,Poland,Podlasie,Białystok,Łąkowa 3 m12,15-017,535077480
+	Linia 2489094: 3210,54499265,Karol,Jaworski,39959,Poland,Podlasie,Białystok,Kopciuszka 8,15156,+48534163264
+	Linia 2489349: 1488823,501125323,Adrian,Sokół,39959,Poland,Podlasie,Białystok,Dziesięciny 82,15-806,731545164
+	Linia 2492169: 2083256,712607420,Jan,Czaban,39959,Poland,Podlasie,Białystok,Antoniukowska 56/lok. 0.36, 15-845 Białystok,15-845,516348295
+	Linia 2500620: 483313,424470188,Łukasz,Gryc,39959,Poland,Podlasie,Białystok,Ulica Ukośna 7/65,15-836,511480750
+	Linia 2501179: 1173485,487857849,Kamil,Kłosek,39959,Poland,Podlasie,Białystok,Kardynała Stefana Wyszyńskiego 4a mieszkanie 36,15-888,+48505818752
+	Linia 2503199: 2341980,582709089,Madina,Duzhueva⁰,39959,Poland,Podlasie,Białystok,Palmowa 38/14,15-795,+48792256065
+	Linia 2508394: 388580,874062641,Wojciech ,Biełaga,39959,Poland,Podlasie,Białystok,Mikołaja Reja 6a,15-615,698021220
+	Linia 2513452: 1966617,164467144,Jakub,Pabiś,39959,Poland,Podlasie,Białystok,Niewodnica Korycka,18-106,511969740
+	Linia 2524967: 850936,353710428,Michal,Komarewski,39959,Poland,Podlasie,Białystok,Szpacza 15,15-531,515516551
+	Linia 2525751: 920830,180325252,Jan,Suchocki,39959,Poland,Podlasie,Białystok,Ukośna 7/40,15-836,517405944
+	Linia 2530079: 1027109,646086530,Maks,Kacała,39959,Poland,Podlasie,Białystok,Planetarna 14,15-683,517214001
+	Linia 2536954: 1758309,356003470,Miłosz,Wojno,39959,Poland,Podlasie,Białystok,Bacieczki 73D,15-685,881594882
+	Linia 2540327: 1310629,723855801,Jakub,Adamczuk,39959,Poland,Podlasie,Białystok,Św. Jerzego 18/6,15-349,884940185
+	Linia 2540497: 4968,89388528,Patryk,Grześ,39959,Poland,Podlasie,Białystok,Zachodnia 2B/10,15-345,+48576564408
+	Linia 2560797: 2236407,167983750,Jakub,Wyszyński,39959,Poland,Podlasie,Białystok,ul. Sybiraków 9/13
+	Linia 2562117: 354668,713795111,Tymoteusz,Kozłowski,39959,Poland,Podlasie,Białystok,Baśniowa 34,15-157,537 246 037
+	Linia 2566163: 1634539,941036212,Dominik,Nagórka,39959,Poland,Podlasie,Białystok,Meksykańska 68,15-633,534931112
